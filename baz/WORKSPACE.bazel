@@ -1,0 +1,5 @@
+new_local_repository(
+	name = "src",
+	path = "../src",
+	build_file = "src.BUILD.bazel",
+)
