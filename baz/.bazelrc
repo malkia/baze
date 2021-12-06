@@ -1,0 +1,3 @@
+startup --output_base=../out
+build --experimental_convenience_symlinks=clean
+build --symlink_prefix=../bin
