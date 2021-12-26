@@ -1,1 +1,2 @@
-bazel build @malkia_src//... @malkia_baz//...
+bazel build @malkia_src//... @malkia_baz//... $*
+
