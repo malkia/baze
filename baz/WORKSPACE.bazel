@@ -3,6 +3,6 @@ workspace(name = "malkia_baz")
 new_local_repository(
 	name = "malkia_src",
 	path = "../src",
-	build_file = "src.BUILD.bazel",
+	build_file = "BUILD.src.bazel",
 )
 
